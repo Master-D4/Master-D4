@@ -31,7 +31,7 @@ A passionate **Software Engineer** based in Sri Lanka, currently building impact
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,ionic,react,angular,flutter,nodejs,python,git,mongodb,postgresql,docker,idea&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,swift,react,angular,flutter,androidstudio,nodejs,python,git,mongodb,postgresql,azure,docker,pycharm,webstorm,vscode,idea&perline=7" alt="Tech Stack" />
 </a>
 
 </div>
